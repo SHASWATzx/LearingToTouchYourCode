@@ -13,7 +13,7 @@ git rebase temp
 git push
 
 wakabili boom BOOM
-it worked for me so i will work for you since I have the worst luck than ******'s bed.
+it worked for me so it will work for you since I have the worst luck than ******'s bed.
 
 to understand the error
 https://www.youtube.com/watch?v=IeL7iq7Lb90
